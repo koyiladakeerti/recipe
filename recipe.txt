@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="styles.css">
+<style>
+body {background-color:powderblue}
+h1   {color:darkblue;}
+p    {color: red;}
+</style>
+</head>
+
+<body background="https://img.freepik.com/free-vector/gradient-background-vector-spring-light-pink-green_53876-105762.jpg?w=2000"></body>
+    <h1 style="text-align:center;">Chicken Popcorn Recipe</h1>
+    <div style="display:flex; justify-content:center;align-items:center;">
+    <img src="https://i.pinimg.com/originals/48/a9/17/48a91750b57dcbb75a42be55226891f9.jpg"style="float:;width:300px;">
+    </div>
+<h1>Ingredients for Chicken Popcorn Recipe</h1>
+<ul>
+<li>Boneless Chicken cut into very small cubes 400 grams</li>
+<li>Eggs 2
+<li>Oil for deep-frying</li>
+<li>Salt to taste</li>
+<li>Black pepper powder to taste</li>
+<li>Cornflour/ corn starch 2 tablespoons</li>
+<li>Refined flour (maida) 4 tablespoons</li>
+<li>Red chilli powder 2 1/4 teaspoons</li>
+<li>Lemon juice 2 teaspoons</li>
+<li>Chaat masala 1 tablespoon</li>
+<li>Dried mixed herbs 1 teaspoon</li>
+<li>Crushed black pepper 1 teaspoon</li>
+<li>Parmesan cheese powder 2 tablespoons</li>
+</ul>
+<h1>Procedure</h1>
+<p style="font-size:160%;">Step 1</p1>
+<li>Break the eggs into a bowl, add salt and pepper powder and beat. Mix cornflour, 2 tbsps refined flour, salt and ¼ tsp red chilli powder and spread on a plate.</li>
+<p style="font-size:160%;">Step 2</p1>
+<li>Place the chicken cubes in a bowl, add salt, 1 tsp red chilli powder, lemon juice and mix and set aside to marinate for ½ hour. Heat sufficient oil in a kadai.</li>
+<p style="font-size:160%;">Step 3</p1>
+<li>Add remaining refined flour to the chicken pieces and mix well. Dip each chicken piece separately in the egg mixture, roll in the spiced flour mixture and slide into the hot oil and deep fry till done. Do not brown  them. Drain on absorbent paper.</li>
+<p style="font-size:160%;">Step 4</p1>
+<li>Mix chaat masala, remaining red chilli powder, dried mixed herbs, crushed black peppercorns and parmesan cheese powder well. Sprinkle most this spice mixture over the chicken cubes and mix well.</li>
+<p style="font-size:160%;">Step 5</p1>
+<li>Transfer into a serving bowl, sprinkle remaining spice mixture and serve hot.</li>
+</p1>
+<h1>Nutrition Info</h1>
+<li>Calories : 1235 Kcal</li>
+<li>Carbohydrates : 87.7 gm</li>
+<li>Protein : 127.9 gm</li>
+<li>Fat : 41.4 gm</li>
+<li>Other : Vitamin B6- 1.5mg</li>
+
+ <div style="display:flex; justify-content:center;align-items:center;">[
+            <small style="font-size:130%;">Developed by @<a href="#">
+                 koyilada keerti.</a></a>
+        </small>]
+</div>
+   
+</body>
+</html>
+
+</html>
